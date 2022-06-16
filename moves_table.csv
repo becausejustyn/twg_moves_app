@@ -1,0 +1,559 @@
+Move Name,Minimum Damage,Maximum Damage,Attack Bonus,Wounding Bonus,Required Position,Obtained Position,Forced Position,1st Ability,2nd Ability,Total Abilities
+Abdominal Neck Wrench,2,8,12,0,Bent Down,Submission,Groggy,Tireless,Toughness,34
+Alley Woop,11,42,11,15,Bent Down,Grounded,Grounded,Tireless,Willpower,60
+Backbreaker,2,20,10,0,Bent Down,Grounded,Groggy,Might,Fury,23
+Belly to Belly Piledriver,12,62,19,0,Bent Down,Grounded,Grounded,Rage,Stiff Blow,78
+Brainbuster,13,48,15,10,Bent Down,Grounded,Groggy,Block,Power Grappling,66
+Candian Back Breaker,2,6,9,0,Bent Down,Submission,Bent Down,Stiff Blow,Berserker,16
+Chicken Wing Suplex Pin,4,20,15,0,Bent Down,Pinning,Groggy,Block,Power Grappling,37
+Coconut Crush,3,18,10,5,Bent Down,Groggy,Groggy,Tireless,Endurance,29
+Cradle Piledriver,19,57,18,10,Bent Down,Grounded,Bent Down,Versatility,Versatility,82
+DDT,6,18,8,5,Bent Down,Grounded,Groggy,Might,Rage,23
+Double Arm DDT,6,39,16,15,Bent Down,Grounded,Groggy,Might,Stiff Blow,59
+Double Handed Suplex,6,33,19,0,Bent Down,Grounded,Grounded,Willpower,Pacification,56
+Double Powerbomb,9,45,18,0,Bent Down,Grounded,Bent Down,Versatility,Versatility,65
+Double Under Hook Suplex,7,30,16,0,Bent Down,Grounded,Groggy,Berserker,Fury,41
+Double Underhook Piledriver,9,60,22,15,Bent Down,Grounded,Bent Down,Might,Fury,75
+Double Underhook Suplex,7,30,16,0,Bent Down,Grounded,Groggy,Berserker,Fury,41
+Drop Suplex,7,37,16,0,Bent Down,Grounded,Bent Down,Toughness,Willpower,53
+Elbow To Back Of Head,2,7,5,0,Bent Down,Grounded,Bent Down,Thick Skin,Pacification,1
+Emerald Fusion,6,39,16,0,Bent Down,Groggy,Grounded,Rage,Stiff Blow,53
+Falling Arm Breaker,7,27,10,0,Bent Down,Grounded,Grounded,Tireless,Thick Skin,32
+Falling Powerslam,11,35,21,0,Bent Down,Grounded,Bent Down,Pacification,Endurance,65
+Front Face Pancake,4,17,10,0,Bent Down,Bent Down,Grounded,Berserker,Fury,25
+Gordbuster,8,43,20,0,Bent Down,Grounded,Groggy,Tireless,Endurance,66
+Half Nelson Face Buster,11,59,22,15,Bent Down,Grounded,Bent Down,Improved Reflexes,Frenzied Urge,73
+Head Lock Takedown,3,12,8,0,Bent Down,Grounded,Standing,Tireless,Thick Skin,15
+Headlock Takedown,3,12,8,0,Bent Down,Grounded,Standing,Tireless,Thick Skin,15
+Implant DDT,4,32,14,15,Bent Down,Grounded,Groggy,Might,Stiff Blow,50
+Inverted DDT,10,40,13,25,Bent Down,Grounded,Groggy,Power Grappling,Ruthless Grasp,59
+Jaw Breaker,4,11,8,0,Bent Down,Grounded,Bent Down,Stiff Blow,Berserker,18
+Jumping Half Nelson Face Buster,10,60,22,20,Bent Down,Grounded,Bent Down,Head Start,Frenzied Urge,74
+Knee Smash,3,12,8,3,Bent Down,Bent Down,Groggy,Tireless,Pacification,13
+Knee Strikes,2,5,6,2,Bent Down,Groggy,Grounded,Unstoppable Blow,Berserker,8
+Low Blow,3,18,10,0,Bent Down,Bent Down,Bent Down,Rage,Stiff Blow,23
+Neck Breaker,3,13,7,0,Bent Down,Grounded,Bent Down,Might,Rage,18
+Octopus Hold,5,8,13,0,Bent Down,Submission,Groggy,Improved Reflexes,Lightness,44
+One Arm DDT,6,24,12,10,Bent Down,Grounded,Groggy,Might,Berserker,37
+Overdrive,16,57,19,0,Bent Down,Grounded,Groggy,Head Start,Lightness,73
+Piledriver,11,61,20,10,Bent Down,Grounded,Groggy,Might,Rage,73
+Powerbomb To Facebuster,5,38,17,10,Bent Down,Grounded,Groggy,Berserker,Fury,53
+Pulling Piledriver,6,29,25,10,Bent Down,Grounded,Bent Down,Versatility,Versatility,47
+Pump Handle Drop,6,39,11,0,Bent Down,Grounded,Groggy,Toughness,Willpower,53
+Pump Handle Slam,8,41,14,0,Bent Down,Grounded,Bent Down,Might,Fury,60
+Pump Handle Suplex,7,44,20,0,Bent Down,Grounded,Bent Down,Might,Fury,61
+Released Powerbomb,12,60,20,0,Bent Down,Grounded,Groggy,Unstoppable Blow,Fury,80
+Reverse DDT,7,33,12,0,Bent Down,Grounded,Groggy,Block,Ruthless Grasp,46
+Reverse Powerslam,6,41,15,15,Bent Down,Grounded,Groggy,Might,Fury,58
+Reverse Suplex,6,42,15,0,Bent Down,Grounded,Groggy,Block,Mastery,53
+Rolling Cutter,3,20,8,0,Bent Down,Grounded,Groggy,Block,Power Grappling,26
+Rolling Leg Lock,2,6,16,0,Bent Down,Submission,Groggy,Head Start,Frenzied Urge,41
+Russian Leg Sweep,4,11,8,0,Bent Down,Grounded,Standing,Unstoppable Blow,Berserker,14
+Russian Neck Drop,10,40,13,0,Bent Down,Grounded,Bent Down,Thick Skin,Pacification,57
+Scissor Kick,8,28,14,0,Bent Down,Grounded,Groggy,Rage,Stiff Blow,41
+Shellshock,8,41,14,0,Bent Down,Grounded,Bent Down,Versatility,Versatility,55
+Shoulder Breaker,4,15,7,0,Bent Down,Grounded,Groggy,Power Grappling,Escape Artist,20
+Shoulder Breaker Thrust,6,39,16,0,Bent Down,Grounded,Groggy,Tireless,Pacification,51
+Side Head Lock,4,9,10,0,Bent Down,Submission,Bent Down,Improved Reflexes,Frenzied Urge,33
+Sit Down Powerbomb,18,50,21,0,Bent Down,Grounded,Groggy,Tireless,Toughness,71
+Snap DDT,3,35,20,20,Bent Down,Grounded,Groggy,Power Grappling,Escape Artist,51
+Snap Powerbomb,12,59,21,0,Bent Down,Grounded,Groggy,Might,Stiff Blow,71
+Snap Suplex,5,20,8,0,Bent Down,Grounded,Bent Down,Improved Reflexes,Frenzied Urge,26
+Snap Tiger Bomb,9,48,17,0,Bent Down,Grounded,Groggy,Improved Reflexes,Elasticity,64
+Snap Tiger Suplex,9,42,20,0,Bent Down,Grounded,Bent Down,Improved Reflexes,Head Start,65
+Snapmare,1,6,6,0,Bent Down,Grounded,Grounded,Thick Skin,Willpower,0
+Springboard Bulldog,3,12,13,10,Bent Down,Grounded,Groggy,Quickness,Improved Refelexes,24
+Strong Sambo Suplex,15,45,14,0,Bent Down,Grounded,Bent Down,Willpower,Endurance,65
+Super Neckbreaker,9,45,18,0,Bent Down,Grounded,Groggy,Toughness,Thick Skin,68
+Super Powerbomb,12,60,20,0,Bent Down,Grounded,Grounded,Tireless,Willpower,78
+Super Shoulder Breaker,9,47,17,0,Bent Down,Grounded,Groggy,Might,Rage,63
+Super Snap Powerbomb,9,66,20,0,Bent Down,Grounded,Bent Down,Thick Skin,Willpower,74
+Suplex,4,39,18,0,Bent Down,Grounded,Bent Down,Improved Reflexes,Head Start,51
+Swinging Neckbreaker,7,30,13,0,Bent Down,Grounded,Bent Down,Might,Rage,41
+Tie Up Knee Strike,3,13,7,0,Bent Down,Groggy,Bent Down,Might,Unstoppable Blow,13
+Tiger Suplex,3,26,13,0,Bent Down,Grounded,Groggy,Improved Reflexes,Head Start,31
+Triple Back Breaker,7,48,18,0,Bent Down,Grounded,Bent Down,Toughness,Willpower,70
+Triple Powerbomb Pin,13,48,15,0,Bent Down,Pinning,Grounded,Tireless,Willpower,65
+Twist Of Fate,9,66,14,0,Bent Down,Grounded,Groggy,Ruthless Grasp,Escape Artist,71
+Underhook Backbreaker,7,37,16,0,Bent Down,Grounded,Groggy,Rage,Fury,57
+Vertabreaker,12,60,20,0,Bent Down,Grounded,Grounded,Block,Mastery,75
+Vertical Suplex,7,40,15,0,Bent Down,Grounded,Groggy,Might,Rage,59
+Body Avalanche,4,20,15,0,Both Wrestlers Running,Grounded,Standing,Tireless,Willpower,31
+Dropsault,4,21,8,10,Both Wrestlers Running,Grounded,Grounded,Ruthless Grasp,Escape Artist,26
+Flipping Face Slam,3,18,7,5,Both Wrestlers Running,Grounded,Groggy,Head Start,Quickness,30
+Half Nelson Bulldog,3,21,15,0,Both Wrestlers Running,Grounded,Bent Down,Versatility,Versatility,38
+Lou Thesz Press Pin,7,27,10,0,Both Wrestlers Running,Pinning,Standing,Thick Skin,Willpower,40
+Rolling Elbow Smash,1,3,7,3,Both Wrestlers Running,Grounded,Grounded,Improved Reflexes,Head Start,0
+Running Headbutt,5,40,16,0,Both Wrestlers Running,Grounded,Standing,Toughness,Thick Skin,59
+Running Neckbreaker,9,42,20,0,Both Wrestlers Running,Grounded,Grounded,Head Start,Elasticity,66
+Running Tornado DDT,18,50,21,15,Both Wrestlers Running,Grounded,Standing,Quickness,Frenzied Urge,72
+Abdominal Stretch,1,5,8,0,Groggy,Submission,Groggy,Ruthless Grasp,Feint,15
+Abdominal Stretch Pin,0,0,15,0,Groggy,Pinning,Bent Down,Block,Ruthless Grasp,7
+Air Raid Siren,7,33,12,20,Groggy,Grounded,Grounded,Tireless,Toughness,41
+Airplain Spin,6,42,15,0,Groggy,Grounded,Groggy,Improved Reflexes,Elasticity,53
+Arabian DDT,7,33,12,7,Groggy,Grounded,Groggy,Versatility,Versatility,49
+Arm Dragon Screw,3,12,8,0,Groggy,Grounded,Groggy,Might,Stiff Blow,11
+Arm Wrench With Hook Kick,3,18,10,0,Groggy,Grounded,Groggy,Thick Skin,Endurance,27
+Atomic Drop,6,30,14,0,Groggy,Grounded,Groggy,Might,Unstoppable Blow,43
+Back Cracker,15,45,14,0,Groggy,Grounded,Groggy,Versatility,Versatility,67
+Back Kick On Leg,8,21,12,0,Groggy,Grounded,Groggy,Head Start,Frenzied Urge,31
+Back Side Slam,6,33,19,0,Groggy,Grounded,Bent Down,Thick Skin,Willpower,53
+Back Suplex,3,18,8,0,Groggy,Grounded,Bent Down,Might,Berserker,28
+Bear Hug,2,16,18,0,Groggy,Submission,Groggy,Might,Berserker,62
+Belly To Back Suplex,12,60,20,0,Groggy,Grounded,Groggy,Block,Power Grappling,72
+Belly to Belly Suplex,12,60,20,0,Groggy,Grounded,Groggy,Feint,Mastery,75
+Big Headbutt,3,21,20,10,Groggy,Grounded,Bent Down,Thick Skin,Endurance,48
+Big Toss,4,21,8,0,Groggy,Grounded,Groggy,Toughness,Thick Skin,26
+Bisontennial,12,60,20,0,Groggy,Grounded,Standing,Versatility,Versatility,85
+Blackout,9,41,13,0,Groggy,Grounded,Grounded,Improved Reflexes,Frenzied Urge,53
+Blue Thunder Pin,6,42,15,0,Groggy,Pinning,Bent Down,Ruthless Grasp,Feint,52
+Body Press to Front Slam,9,62,21,0,Groggy,Grounded,Groggy,Stiff Blow,Fury,80
+Body Slam,5,19,8,0,Groggy,Grounded,Groggy,Tireless,Pacification,0
+Bridging Belly to Back Suplex,7,44,20,0,Groggy,Pinning,Groggy,Block,Escape Artist,68
+Bulldog,1,15,8,5,Groggy,Grounded,Groggy,Elasticity,Frenzied Urge,16
+C-4,17,55,20,0,Groggy,Grounded,Grounded,Versatility,Versatility,83
+Cannon Ball Buster,7,48,18,0,Groggy,Grounded,Groggy,Toughness,Endurance,70
+Capture Suplex,3,18,10,0,Groggy,Grounded,Bent Down,Block,Ruthless Grasp,29
+Choke Slam,10,63,20,0,Groggy,Grounded,Groggy,Might,Unstoppable Blow,80
+Chop Breaker,7,27,10,10,Groggy,Grounded,Groggy,Power Grappling,Ruthless Grasp,35
+Clinching Slam,12,59,21,0,Groggy,Grounded,Bent Down,Stiff Blow,Berserker,78
+Cobra Clutch Bomb,6,30,14,0,Groggy,Grounded,Bent Down,Escape Artist,Feint,45
+Cobra Clutch Suplex,7,33,12,0,Groggy,Grounded,Groggy,Ruthless Grasp,Mastery,43
+Complete Shot DDT,9,45,12,15,Groggy,Grounded,Groggy,Lightness,Elasticity,62
+crucifix Pin,0,0,30,0,Groggy,Pinning,Groggy,Improved Reflexes,Quickness,5
+Death Valley Driver,10,42,19,5,Groggy,Grounded,Groggy,Block,Feint,63
+Derailer,6,39,16,0,Groggy,Grounded,Opening Move,Willpower,Endurance,56
+Double Chokelift Slam,9,60,22,0,Groggy,Grounded,Groggy,Might,Berserker,72
+Double Dragon Screw,3,12,13,0,Groggy,Grounded,Groggy,Quickness,Head Start,25
+Dragon Screw,5,11,8,0,Groggy,Grounded,Bent Down,Improved Reflexes,Head Start,17
+Dragon Whip,3,41,17,0,Groggy,Grounded,Groggy,Escape Artist,Feint,56
+Dropkick,3,10,9,3,Groggy,Grounded,Grounded,Lightness,Frenzied Urge,15
+Dropkick To Knee,10,24,9,0,Groggy,Bent Down,Grounded,Improved Reflexes,Elasticity,36
+Eastern Stretch,5,7,7,0,Groggy,Submission,Bent Down,Block,Escape Artist,23
+Electric Chair Drop,13,48,15,0,Groggy,Grounded,Grounded,Thick Skin,Pacification,66
+Enziguiri Kick,9,40,14,0,Groggy,Grounded,Grounded,Block,Power Grappling,59
+Face Slam,6,22,13,7,Groggy,Grounded,Groggy,Might,Fury,39
+Falcon Arrow,6,24,12,0,Groggy,Pinning,Bent Down,Rage,Stiff Blow,40
+Fallaway Slam,6,41,15,0,Groggy,Grounded,Bent Down,Unstoppable Blow,Fury,54
+Falling Neck Breaker,1,15,8,0,Groggy,Grounded,Grounded,Might,Berserker,11
+Fire Thunder,6,33,19,0,Groggy,Grounded,Groggy,Toughness,Pacification,52
+Fisherman DDT,13,38,12,20,Groggy,Grounded,Groggy,Feint,Mastery,58
+Fisherman Suplex,6,39,16,0,Groggy,Pinning,Bent Down,Escape Artist,Mastery,60
+Front Face Neck Breaker,13,52,23,15,Groggy,Grounded,Groggy,Versatility,Versatility,81
+Front Power Slam,4,32,14,0,Groggy,Grounded,Bent Down,Stiff Blow,Fury,50
+Front Russian Leg Sweep,6,30,14,10,Groggy,Grounded,Bent Down,Tireless,Thick Skin,50
+Full Nelson,1,22,21,0,Groggy,Submission,Groggy,Escape Artist,Mastery,72
+Full Nelson Bomb,12,60,20,0,Groggy,Grounded,Groggy,Tireless,Thick Skin,74
+Full Nelson Face Drop,7,30,13,0,Groggy,Grounded,Bent Down,Might,Fury,49
+Full Nelson Slam,8,47,18,0,Groggy,Grounded,Grounded,Might,Unstoppable Blow,65
+Full Nelson Suplex,9,45,18,0,Groggy,Grounded,Groggy,Block,Ruthless Grasp,66
+German Suplex,9,45,18,0,Groggy,Grounded,Groggy,Feint,Mastery,65
+Gorilla Press Slam,9,66,20,0,Groggy,Grounded,Groggy,Tireless,Endurance,80
+Gory Bomb,6,39,16,0,Groggy,Grounded,Groggy,Block,Feint,52
+Gutwrench Suplex,7,25,11,0,Groggy,Grounded,Bent Down,Block,Mastery,33
+Half Nelson,3,15,18,0,Groggy,Submission,Groggy,Ruthless Grasp,Feint,67
+Half Nelson Suplex,10,41,12,0,Groggy,Grounded,Bent Down,Block,Escape Artist,57
+Hammer Lock,2,4,11,0,Groggy,Submission,Groggy,Elasticity,Frenzied Urge,24
+Headbutt To Back Of Head,2,13,8,0,Groggy,Bent Down,Groggy,Tireless,Pacification,16
+Headlock & Punch,3,12,8,3,Groggy,Grounded,Bent Down,Tireless,Willpower,14
+Hog Lock,9,45,18,0,Groggy,Grounded,Grounded,Thick Skin,Willpower,68
+Hopping Rolling Pin,0,0,30,0,Groggy,Pinning,Grounded,Lightness,Elasticity,31
+Hopping Sunset Flip,0,0,30,0,Groggy,Pinning,Grounded,Lightness,Frenzied Urge,7
+Hurracanrana,7,27,10,0,Groggy,Grounded,Grounded,Quickness,Frenzied Urge,35
+Impaler,7,40,15,0,Groggy,Grounded,Grounded,Might,Unstoppable Blow,57
+Inverted Atomic Drop,10,44,18,0,Groggy,Grounded,Groggy,Berserker,Fury,62
+Inverted Headlock Backbreaker,6,24,12,0,Groggy,Grounded,Grounded,Might,Stiff Blow,35
+Judo Front Slam,20,56,16,0,Groggy,Grounded,Groggy,Toughness,Willpower,80
+Jumping HH Pin,0,0,30,0,Groggy,Pinning,Grounded,Block,Power Grappling,8
+Jumping Piledriver,8,41,14,15,Groggy,Grounded,Grounded,Might,Berserker,52
+Jumping Twisting DDT,9,62,22,20,Groggy,Grounded,Bent Down,Head Start,Elasticity,74
+Kicking Combination,9,27,9,15,Groggy,Grounded,Groggy,Block,Feint,34
+Kneeling Back Breaker,8,36,17,0,Groggy,Grounded,Grounded,Head Start,Frenzied Urge,52
+Lifting & Toss,3,21,20,0,Groggy,Grounded,Groggy,Willpower,Endurance,42
+Mandible Claw,2,13,16,0,Groggy,Submission,Groggy,Ruthless Grasp,Mastery,60
+Mat Slam,3,20,9,0,Groggy,Grounded,Bent Down,Willpower,Endurance,23
+Millitary Press,15,63,16,0,Groggy,Grounded,Bent Down,Toughness,Endurance,72
+Multiple German Suplex,10,63,20,0,Groggy,Grounded,Groggy,Power Grappling,Mastery,78
+Multiple Headbutt,2,19,11,5,Groggy,Grounded,Groggy,Tireless,Willpower,30
+Neck Drop,7,25,11,0,Groggy,Grounded,Groggy,Block,Escape Artist,38
+Neck Wrench,2,5,7,0,Groggy,Submission,Groggy,Power Grappling,Feint,17
+Northern Light Suplex,10,46,17,0,Groggy,Grounded,Groggy,Ruthless Grasp,Mastery,65
+Oklahoma Slam,10,46,17,0,Groggy,Grounded,Groggy,Stiff Blow,Fury,67
+Olympic Slam,9,66,20,0,Groggy,Grounded,Groggy,Block,Escape Artist,80
+Psycho Driver,6,39,16,0,Groggy,Grounded,Groggy,Versatility,Versatility,54
+Rack Pancake,19,57,18,0,Groggy,Grounded,Bent Down,Tireless,Pacification,72
+Rib Breaker,4,15,7,0,Groggy,Grounded,Bent Down,Thick Skin,Toughness,14
+Roll Up,0,0,30,0,Groggy,Pinning,Grounded,Head Start,Elasticity,5
+Rolling Crutch Pin,0,0,30,0,Groggy,Pinning,Groggy,Stiff Blow,Berserker,4
+Rope Drop Clothesline,5,19,8,0,Groggy,Grounded,Standing,Tireless,Thick Skin,22
+Rushing Armbar,3,5,6,0,Groggy,Submission,Bent Down,Escape Artist,Feint,16
+Sambo Suplex,5,29,15,0,Groggy,Grounded,Bent Down,Unstoppable Blow,Fury,41
+Samoan Driver,7,48,18,0,Groggy,Grounded,Groggy,Versatility,Versatility,68
+Samoan Drop,4,30,11,0,Groggy,Grounded,Bent Down,Might,Unstoppable Blow,0
+Scoop Reverse DDT,13,48,15,0,Groggy,Grounded,Bent Down,Escape Artist,Mastery,61
+Shin Breaker,5,27,11,0,Groggy,Grounded,Bent Down,Stiff Blow,Fury,31
+shoulder Thrust,3,32,15,0,Groggy,Grounded,Bent Down,Pacification,Endurance,41
+Shuffle Side Kick,5,30,15,0,Groggy,Grounded,Groggy,Improved Reflexes,Head Start,42
+Side Effect,6,30,14,0,Groggy,Grounded,Groggy,Block,Power Grappling,49
+Side Suplex,6,24,12,0,Groggy,Grounded,Groggy,Power Grappling,Mastery,40
+Sky High,7,33,12,0,Groggy,Grounded,Bent Down,Tireless,Willpower,46
+Sleeper Drop,12,60,20,0,Groggy,Grounded,Bent Down,Unstoppable Blow,Stiff Blow,80
+sleeper Hold,1,9,13,0,Groggy,Submission,Groggy,Block,Ruthless Grasp,34
+Sliced Bread #3,7,27,10,0,Groggy,Grounded,Groggy,Versatility,Versatility,40
+Slingshot,3,32,14,0,Groggy,Grounded,Bent Down,Power Grappling,Mastery,44
+Small Package,0,0,30,0,Groggy,Pinning,Grounded,Willpower,Pacification,2
+Spanish Flip,6,24,12,0,Groggy,Grounded,Groggy,Ruthless Grasp,Mastery,40
+Spike Piledriver,7,19,18,15,Groggy,Grounded,Bent Down,Block,Escape Artist,41
+Spinning Kick,5,26,17,3,Groggy,Grounded,Grounded,Quickness,Frenzied Urge,42
+Spinning Toe Hold,2,7,9,0,Groggy,Submission,Grounded,Head Start,Frenzied Urge,23
+Spiral Bomb,9,62,22,0,Groggy,Grounded,Bent Down,Willpower,Pacification,78
+Springboard Crossbody,3,12,8,0,Groggy,Pinning,Grounded,Lightness,Elasticity,14
+Springboard DDT,11,46,16,15,Groggy,Grounded,Grounded,Quickness,Elasticity,61
+Springboard Hurracanrana,8,31,13,0,Groggy,Grounded,Grounded,Quickness,Elasticity,43
+Springboard Rolling Elbow Smash,11,45,17,5,Groggy,Grounded,Grounded,Head Start,Quickness,63
+Standing Armbar,1,6,10,0,Groggy,Submission,Groggy,Rage,Unstoppable Blow,30
+Steam Roller,7,46,19,0,Groggy,Grounded,Grounded,Head Start,Lightness,61
+Steenalizer,9,66,20,0,Groggy,Grounded,Groggy,Versatility,Versatility,86
+Super Atomic Drop,15,45,14,0,Groggy,Grounded,Groggy,Tireless,Pacification,64
+Super Body Slam,7,26,10,0,Groggy,Grounded,Groggy,Pacification,Endurance,34
+Super Fallaway Slam,10,40,13,0,Groggy,Grounded,Bent Down,Toughness,Endurance,51
+Super Kick,5,26,12,0,Groggy,Grounded,Groggy,Power Grappling,Escape Artist,37
+Super Samoan Drop,3,23,19,0,Groggy,Grounded,Groggy,Tireless,Endurance,44
+T-Bone DDT,7,19,18,15,Groggy,Grounded,Bent Down,Feint,Mastery,42
+T-Bone Suplex,7,19,18,0,Groggy,Grounded,Bent Down,Escape Artist,Mastery,50
+Tilt A Whirl Side Slam,2,10,3,0,Groggy,Grounded,Bent Down,Escape Artist,Feint,4
+Tilt A Whril Back Breaker,6,15,5,0,Groggy,Grounded,Bent Down,Ruthless Grasp,Escape Artist,18
+TKO,15,55,20,15,Groggy,Grounded,Bent Down,Escape Artist,Feint,79
+Torture Rack,3,15,18,0,Groggy,Submission,Groggy,Rage,Unstoppable Blow,67
+Trapping Headbutts,7,25,11,10,Groggy,Grounded,Groggy,Toughness,Pacification,40
+Twisting DDT,15,55,20,15,Groggy,Grounded,Bent Down,Quickness,Head Start,74
+Two Handed Choke Lift,3,15,18,0,Groggy,Submission,Groggy,Tireless,Thick Skin,69
+Ultimate Armbar,3,9,11,0,Groggy,Submission,Grounded,Power Grappling,Feint,32
+Under Hook BTB Suplex,17,55,20,0,Groggy,Grounded,Grounded,Pacification,Endurance,74
+Victory Roll,0,0,30,0,Groggy,Pinning,Grounded,Head Start,Frenzied Urge,9
+West Coast Pop,4,20,15,0,Groggy,Pinning,Grounded,Quickness,Elasticity,32
+Angry Stomp,2,5,6,0,Grounded,Grounded,Grounded,Elasticity,Frenzied Urge,0
+Ankle Lock,4,20,20,0,Grounded,Submission,Grounded,Ruthless Grasp,Mastery,80
+Argentine Leg Lock,3,5,6,0,Grounded,Submission,Grounded,Block,Escape Artist,12
+Arm Lock,1,4,8,0,Grounded,Submission,Grounded,Rage,Unstoppable Blow,16
+Armbar,2,5,7,0,Grounded,Submission,Grounded,Block,Ruthless Grasp,15
+Big Splash Pin,9,45,18,0,Grounded,Pinning,Grounded,Thick Skin,Endurance,62
+Boston Crab,1,12,18,0,Grounded,Submission,Grounded,Ruthless Grasp,Escape Artist,53
+Bow And Arrow Lock,5,7,5,0,Grounded,Submission,Grounded,Power Grappling,Ruthless Grasp,25
+Brain Squeezer,2,5,7,0,Grounded,Submission,Grounded,Toughness,Pacification,12
+Buffalo Sleeper Hold,2,5,10,0,Grounded,Submission,Grounded,Power Grappling,Mastery,22
+Butterfly Lock,3,9,11,0,Grounded,Submission,Grounded,Ruthless Grasp,Escape Artist,32
+Camel Clutch,3,14,19,0,Grounded,Submission,Grounded,Rage,Stiff Blow,63
+Chicken Wing,4,11,12,0,Grounded,Submission,Grounded,Improved Reflexes,Frenzied Urge,44
+Chin Lock,2,4,11,0,Grounded,Submission,Bent Down,Lightness,Frenzied Urge,23
+Choke Hold,1,4,8,0,Grounded,Submission,Groggy,Thick Skin,Willpower,15
+Clutching Punch,3,9,11,0,Grounded,Submission,Grounded,Tireless,Pacification,36
+Cocky Pin,0,0,30,0,Grounded,Pinning,Grounded,Might,Stiff Blow,19
+Crucifix Armbar,5,7,5,0,Grounded,Submission,Grounded,Power Grappling,Feint,25
+Dragon Sleeper,2,11,13,0,Grounded,Submission,Grounded,Power Grappling,Escape Artist,47
+Elbow Crush,5,19,8,0,Grounded,Grounded,Grounded,Thick Skin,Willpower,25
+Elbow Drop,3,12,8,3,Grounded,Grounded,Grounded,Rage,Stiff Blow,19
+Elbow Drop To Inner Thigh,5,20,8,0,Grounded,Grounded,Grounded,Improved Reflexes,Head Start,21
+Face Stretch,3,20,9,0,Grounded,Grounded,Groggy,Toughness,Pacification,24
+Falling Headbutt,7,33,12,0,Grounded,Grounded,Grounded,Toughness,Pacification,47
+Figure 4,7,16,11,0,Grounded,Submission,Grounded,Power Grappling,Mastery,64
+Figure 4 Pin,0,0,30,0,Grounded,Pinning,Groggy,Block,Mastery,9
+Firespin,10,44,18,0,Grounded,Grounded,Grounded,Rage,Berserker,66
+Fist Drop,5,26,13,5,Grounded,Grounded,Grounded,Head Start,Elasticity,33
+Fist Lock,1,3,9,0,Grounded,Submission,Grounded,Ruthless Grasp,Escape Artist,16
+Flipping Armbar,3,3,7,0,Grounded,Submission,Grounded,Power Grappling,Ruthless Grasp,17
+Fujiwara Armbar,3,15,18,0,Grounded,Submission,Grounded,Lightness,Frenzied Urge,63
+Gangsta Stretch,1,6,10,0,Grounded,Submission,Grounded,Ruthless Grasp,Feint,30
+Goku-Raku Stretch,1,6,10,0,Grounded,Submission,Grounded,Feint,Mastery,21
+Gory Special,2,11,13,0,Grounded,Submission,Grounded,Power Grappling,Feint,44
+Groin Knee Drop,13,52,23,0,Grounded,Grounded,Groggy,Toughness,Thick Skin,78
+Head Lock,1,7,9,0,Grounded,Submission,Grounded,Rage,Berserker,21
+Head Pound,2,6,9,0,Grounded,Submission,Bent Down,Stiff Blow,Fury,26
+Headbutt To Groin,7,44,20,0,Grounded,Grounded,Grounded,Unstoppable Blow,Berserker,67
+Hip Press,6,29,15,0,Grounded,Grounded,Grounded,Willpower,Pacification,46
+Indian Death Lock,1,4,8,0,Grounded,Submission,Grounded,Block,Feint,13
+Kick To Back,3,18,10,0,Grounded,Grounded,Grounded,Unstoppable Blow,Berserker,22
+Kick To Groin,6,22,13,0,Grounded,Grounded,Grounded,Unstoppable Blow,Berserker,35
+Knee Drop,6,22,13,10,Grounded,Grounded,Grounded,Stiff Blow,Berserker,36
+Knee On Leg,1,8,5,0,Grounded,Grounded,Bent Down,Might,Rage,7
+Knee Stomp,3,18,10,0,Grounded,Grounded,Grounded,Toughness,Willpower,0
+Koji Clutch,1,5,8,0,Grounded,Submission,Grounded,Power Grappling,Feint,11
+Leg Drop,10,63,20,0,Grounded,Grounded,Groggy,Rage,Unstoppable Blow,80
+Leg Lock,2,5,10,0,Grounded,Submission,Grounded,Block,Mastery,23
+Magistrale Cradle,0,0,30,0,Grounded,Pinning,Grounded,Might,Unstoppable Blow,28
+Mexican Stretch,3,6,15,0,Grounded,Submission,Grounded,Feint,Mastery,31
+Ne-Han,3,6,9,0,Grounded,Submission,Grounded,Escape Artist,Mastery,27
+One Leg Boston Crab,1,10,15,0,Grounded,Submission,Grounded,Thick Skin,Willpower,46
+Recliner Pin,0,0,30,0,Grounded,Pinning,Grounded,Block,Feint,2
+Reverse Achilles Lock,2,5,10,0,Grounded,Submission,Grounded,Ruthless Grasp,Mastery,28
+Reverse Figure 4,4,14,14,0,Grounded,Submission,Grounded,Power Grappling,Mastery,52
+Rocket Launcher,4,32,14,10,Grounded,Groggy,Groggy,Unstoppable Blow,Stiff Blow,40
+Senton Smash,6,30,14,0,Grounded,Grounded,Grounded,Toughness,Willpower,48
+Sharpshooter,1,16,17,0,Grounded,Submission,Grounded,Block,Mastery,65
+Shoulder Lock,2,7,9,0,Grounded,Submission,Grounded,Lightness,Elasticity,22
+Side Leg Lock,2,5,7,0,Grounded,Submission,Grounded,Power Grappling,Escape Artist,15
+Sitting Reverse Armbar,3,3,5,0,Grounded,Submission,Grounded,Toughness,Willpower,15
+Spinning Leg Crush,3,19,9,0,Grounded,Grounded,Bent Down,Power Grappling,Escape Artist,24
+Spinning Leg Drop,16,57,19,0,Grounded,Grounded,Grounded,Head Start,Elasticity,76
+Springboard Corkscrew Splash,2,8,10,0,Grounded,Grounded,Grounded,Improved Reflexes,Lightness,12
+Springboard Moonsault,12,59,21,0,Grounded,Grounded,Groggy,Quickness,Lightness,72
+Springboard Senton Splash,15,55,20,0,Grounded,Grounded,Grounded,Quickness,Elasticity,74
+Standing Moonsault,6,42,15,0,Grounded,Grounded,Grounded,Quickness,Improved Refelexes,54
+STF,3,6,15,0,Grounded,Submission,Grounded,Escape Artist,Mastery,36
+strangle Hold,3,6,9,0,Grounded,Submission,Grounded,Block,Feint,21
+Stretch Muffler,1,6,10,0,Grounded,Submission,Groggy,Unstoppable Blow,Stiff Blow,27
+Surfboard Stretch,1,5,11,0,Grounded,Submission,Grounded,Rage,Fury,28
+Texas Cloverleaf,2,10,14,0,Grounded,Submission,Grounded,Power Grappling,Mastery,42
+Triangle Choke,2,10,14,0,Grounded,Submission,Grounded,Ruthless Grasp,Power Grappling,48
+Two Handed Face Buster,5,27,11,7,Grounded,Grounded,Standing,Berserker,Fury,33
+Walk on Back,3,21,15,0,Grounded,Grounded,Grounded,Willpower,Endurance,34
+Walk On Belly,6,24,12,0,Grounded,Grounded,Grounded,Thick Skin,Endurance,38
+Wish Bone,2,9,15,0,Grounded,Submission,Bent Down,Tireless,Pacification,45
+Back Elbow Smash,3,9,10,3,One Wrestler is Running,Grounded,Standing,Thick Skin,Pacification,0
+Backslide Pin,0,0,30,0,One Wrestler is Running,Pinning,Grounded,Tireless,Toughness,0
+Clothesline,4,9,9,0,One Wrestler is Running,Grounded,Standing,Head Start,Elasticity,11
+Full Nelson Bulldog,7,27,10,0,One Wrestler is Running,Grounded,Groggy,Versatility,Versatility,40
+Running Dropkick,4,20,15,5,One Wrestler is Running,Grounded,Grounded,Quickness,Improved Refelexes,31
+Shoulder Block,4,15,7,0,One Wrestler is Running,Grounded,Standing,Willpower,Pacification,18
+Spinning Wheel Kick,10,24,9,3,One Wrestler is Running,Grounded,Grounded,Head Start,Lightness,34
+Back Hand Chop,2,7,5,0,Opening Move,Standing,Opening Move,Block,Power Grappling,7
+Chop,1,2,8,0,Opening Move,Standing,Standing,Head Start,Lightness,3
+Ear Slap,1,4,7,0,Opening Move,Standing,Standing,Tireless,Pacification,0
+European Uppercut,1,15,8,0,Opening Move,Standing,Opening Move,Rage,Berserker,20
+Eye Rake,2,7,5,0,Opening Move,Standing,Opening Move,Improved Reflexes,Lightness,2
+Hook Punch,2,8,4,0,Opening Move,Standing,Standing,Tireless,Willpower,10
+Knee on Head,3,5,5,2,Opening Move,Standing,Opening Move,Might,Unstoppable Blow,2
+Mongolian Chop,2,14,1,0,Opening Move,Standing,Standing,Tireless,Thick Skin,5
+Overhand Chop,1,6,6,0,Opening Move,Standing,Standing,Tireless,Toughness,1
+Punch,2,5,6,1,Opening Move,Standing,Opening Move,Might,Rage,2
+Slap,2,6,5,0,Opening Move,Standing,Opening Move,Block,Ruthless Grasp,4
+Throat Thrust,2,14,7,0,Opening Move,Standing,Opening Move,Rage,Stiff Blow,20
+Banzai Drop From Apron Ring,13,48,15,0,Outside The Ring Grounded,Grounded,Bent Down,Endurance,Toughness,70
+Brainbuster On The Mat,3,41,17,0,Outside The Ring Grounded,Grounded,Groggy,Mastery,Escape Artist,60
+Coconut Crush On The Apron,10,31,12,10,Outside The Ring Grounded,Grounded,Groggy,Fury,Might,50
+DDT On The Concrete,3,41,17,10,Outside The Ring Grounded,Grounded,Bent Down,Quickness,Elasticity,60
+Elbow Drop From The Apron Ring,7,33,12,0,Outside The Ring Grounded,Grounded,Groggy,Endurance,Willpower,50
+Flying Headbutt From Apron,7,33,12,0,Outside The Ring Grounded,Grounded,Bent Down,Versatility,Versatility,50
+Flying Headbutt Outside The Ring,13,48,15,0,Outside The Ring Grounded,Grounded,Grounded,Mastery,Ruthless Grasp,70
+Head Scissor On Step Ladder,10,31,12,10,Outside The Ring Grounded,Grounded,Bent Down,Quickness,Head Start,50
+Hurracanrana From The Apron,7,44,20,0,Outside The Ring Grounded,Grounded,Standing,Quickness,Lightness,70
+Knee Drop From Apron Ring,6,42,15,0,Outside The Ring Grounded,Grounded,Grounded,Mastery,Escape Artist,60
+Knee Drop On Step Ladder,6,42,15,10,Outside The Ring Grounded,Grounded,Standing,Fury,Berserker,60
+Knee Smash On The Apron,7,33,12,0,Outside The Ring Grounded,Grounded,Groggy,Fury,Might,50
+Leg Drop On The Apron,13,48,15,0,Outside The Ring Grounded,Grounded,Grounded,Fury,Unstoppable Blow,70
+Moonsault From Apron,13,48,15,0,Outside The Ring Grounded,Grounded,Grounded,Improved Reflexes,Lightness,70
+Neckbreaker On The Ground,11,57,22,0,Outside The Ring Grounded,Grounded,Standing,Versatility,Versatility,80
+Powerslam On The Table,6,22,13,0,Outside The Ring Grounded,Grounded,Standing,Unstoppable Blow,Stiff Blow,0
+Running Dropkick Through Trashcan,6,22,13,0,Outside The Ring Grounded,Grounded,Standing,Quickness,Frenzied Urge,0
+Spinebuster On Step Ladder,3,41,17,10,Outside The Ring Grounded,Grounded,Groggy,Fury,Berserker,60
+Spinebuster On The Step Ladder,3,41,17,10,Outside The Ring Grounded,Grounded,Groggy,Fury,Berserker,60
+Splash From Ring,10,63,20,0,Outside The Ring Grounded,Grounded,Groggy,Versatility,Versatility,80
+Suicide Dive,10,63,20,0,Outside The Ring Grounded,Grounded,Standing,Mastery,Block,80
+Thrust On Crowd Barrier,6,22,13,0,Outside The Ring Grounded,Grounded,Groggy,Endurance,Pacification,0
+Vertical Suplex On The Ground,10,31,12,10,Outside The Ring Grounded,Grounded,Standing,Endurance,Willpower,50
+Big Splash Outside The Ring,10,63,20,0,Outside The Ring Standing,Grounded,Standing,Fury,Rage,80
+Choke With Electric Chords,9,27,9,0,Outside The Ring Standing,Grounded,Groggy,Mastery,Power Grappling,0
+Chokeslam On The Table,7,44,20,0,Outside The Ring Standing,Grounded,Bent Down,Endurance,Toughness,70
+Corkscrew Top Rope Splash,7,33,12,0,Outside The Ring Standing,Grounded,Standing,Quickness,Head Start,50
+DDT On The Ground,10,31,12,10,Outside The Ring Standing,Grounded,Bent Down,Versatility,Versatility,50
+Diving Stomp From Apron Ring,6,42,15,0,Outside The Ring Standing,Grounded,Groggy,Endurance,Thick Skin,60
+Double Hanged Chokeslam On The Ground,10,57,22,0,Outside The Ring Standing,Groggy,Bent Down,Endurance,Tireless,80
+Elbow Smash On The Apron,9,27,9,0,Outside The Ring Standing,Groggy,Bent Down,Fury,Stiff Blow,0
+Face Stretch On Step Ladder,9,27,9,10,Outside The Ring Standing,Grounded,Standing,Endurance,Pacification,0
+Facedrop On Step Ladder,7,33,12,10,Outside The Ring Standing,Grounded,Grounded,Mastery,Feint,50
+Flying DDT From Apron To Outside The Ring,11,57,22,10,Outside The Ring Standing,Grounded,Groggy,Quickness,Improved Refelexes,80
+Full Nelson Suplex On The Table,11,57,22,0,Outside The Ring Standing,Grounded,Groggy,Mastery,Block,80
+Head Pounds Outside The Ring,9,27,9,0,Outside The Ring Standing,Grounded,Standing,Versatility,Versatility,0
+Irish Whip Through Step Ladder,6,22,13,10,Outside The Ring Standing,Groggy,Groggy,Mastery,Power Grappling,0
+Leg Drop From Apron,6,42,15,0,Outside The Ring Standing,Grounded,Groggy,Quickness,Elasticity,60
+Multiple Elbow Drop,6,42,15,0,Outside The Ring Standing,Grounded,Groggy,Versatility,Versatility,60
+Plancha From The Ring To Outside,9,27,9,0,Outside The Ring Standing,Grounded,Standing,Quickness,Frenzied Urge,0
+Powerbomb On The Table,3,41,17,0,Outside The Ring Standing,Grounded,Groggy,Versatility,Versatility,60
+Powerbomb To Concrete,11,57,22,10,Outside The Ring Standing,Grounded,Groggy,Fury,Rage,80
+Powerslam On The Ground,3,41,17,10,Outside The Ring Standing,Grounded,Bent Down,Endurance,Thick Skin,60
+Snap DDT On The Concrete,7,44,20,10,Outside The Ring Standing,Grounded,Grounded,Mastery,Ruthless Grasp,70
+Snap Suplex On The Ground,10,31,12,0,Outside The Ring Standing,Grounded,Grounded,Mastery,Feint,50
+Snap Suplex On the Table,10,31,12,0,Outside The Ring Standing,Grounded,Grounded,Mastery,Feint,50
+Spear Through Crowd Barriars,7,44,20,0,Outside The Ring Standing,Groggy,Standing,Fury,Unstoppable Blow,70
+Spinebuster On The Concrete,7,44,20,10,Outside The Ring Standing,Groggy,Bent Down,Versatility,Versatility,70
+Splash From Apron,10,63,20,0,Outside The Ring Standing,Grounded,Groggy,Endurance,Tireless,80
+Suplex On Step Ladder,6,22,13,10,Outside The Ring Standing,Grounded,Groggy,Versatility,Versatility,0
+Turnbuckle Stretch,13,48,15,0,Outside The Ring Standing,Grounded,Groggy,Versatility,Versatility,70
+Twisting Sky Moonsault From Turnbuckle To Outside,10,63,20,0,Outside The Ring Standing,Grounded,Standing,Quickness,Improved Refelexes,80
+Baseball Slide,4,39,18,0,Ropes Grounded,Grounded,Grounded,Quickness,Lightness,58
+Choke At Ropes,1,6,6,0,Ropes Grounded,Grounded,Grounded,Improved Reflexes,Lightness,0
+Irregular Pin,0,0,30,0,Ropes Grounded,Pinning,Grounded,Tireless,Willpower,6
+Pescado,7,33,12,0,Ropes Grounded,Grounded,Grounded,Ruthless Grasp,Escape Artist,44
+Rear Naked Choke,2,7,5,0,Ropes Grounded,Grounded,Grounded,Tireless,Thick Skin,10
+Rolling Thunder,8,41,14,0,Ropes Grounded,Grounded,Grounded,Improved Reflexes,Lightness,55
+Springboard Leg Drop,11,46,16,0,Ropes Grounded,Grounded,Grounded,Lightness,Quickness,70
+Suicide Leg Drop,7,25,11,6,Ropes Grounded,Grounded,Standing,Versatility,Versatility,40
+Biggest Chop,2,23,15,0,Ropes Standing,Bent Down,Groggy,Tireless,Endurance,36
+Chop At Ropes,1,6,6,0,Ropes Standing,Groggy,Bent Down,Improved Reflexes,Elasticity,0
+Eye Rake on Ropes,1,7,5,0,Ropes Standing,Bent Down,Bent Down,Unstoppable Blow,Rage,7
+Springboard Enziguiri Kick,13,48,15,0,Ropes Standing,Grounded,Grounded,Power Grappling,Ruthless Grasp,69
+Walk On The Rope,5,27,11,0,Ropes Standing,Grounded,Groggy,Might,Rage,36
+Back Body Drop,6,9,7,0,Running Opponent,Grounded,Groggy,Head Start,Lightness,12
+Back Toss,2,26,14,0,Running Opponent,Grounded,Standing,Toughness,Willpower,33
+Big Boot,2,14,7,7,Running Opponent,Grounded,Standing,Stiff Blow,Berserker,20
+Discus Clothesline,5,15,6,0,Running Opponent,Grounded,Standing,Escape Artist,Feint,19
+Flying X-Factor,7,37,16,8,Running Opponent,Grounded,Groggy,Versatility,Versatility,53
+Gutbuster,15,45,14,0,Running Opponent,Grounded,Grounded,Tireless,Toughness,68
+High Back Body Drop,7,27,10,0,Running Opponent,Grounded,Groggy,Lightness,Frenzied Urge,34
+Hip Toss,1,8,5,0,Running Opponent,Grounded,Bent Down,Might,Berserker,0
+Leg Trip,2,20,10,0,Running Opponent,Grounded,Standing,Quickness,Elasticity,22
+Monkey Flip,5,17,9,0,Running Opponent,Grounded,Standing,Rage,Unstoppable Blow,26
+Monkey Toss,4,20,15,0,Running Opponent,Grounded,Grounded,Toughness,Thick Skin,31
+Polish Hammer,4,30,11,25,Running Opponent,Grounded,Standing,Rage,Unstoppable Blow,39
+Power Slam,4,32,14,0,Running Opponent,Grounded,Standing,Rage,Unstoppable Blow,45
+Real Deal,3,20,9,0,Running Opponent,Grounded,Groggy,Versatility,Versatility,21
+Running Arm Drag,3,12,13,0,Running Opponent,Grounded,Groggy,Improved Reflexes,Elasticity,0
+Running Knee Smash,6,39,16,10,Running Opponent,Grounded,Standing,Rage,Unstoppable Blow,54
+Running Samoan Drop,6,29,15,0,Running Opponent,Grounded,Groggy,Toughness,Endurance,45
+Side Slam,6,30,14,0,Running Opponent,Grounded,Standing,Toughness,Thick Skin,50
+Spinebuster,9,47,17,0,Running Opponent,Grounded,Bent Down,Might,Stiff Blow,69
+Springboard Backflip Elbow Smash,2,13,8,3,Running Opponent,Grounded,Grounded,Improved Reflexes,Frenzied Urge,18
+Tilt A Whirl Piledriver,10,40,13,5,Running Opponent,Grounded,Standing,Tireless,Thick Skin,54
+3 Point Stance Charge,3,18,10,0,Standing,Groggy,Bent Down,Tireless,Toughness,25
+Arm Drag,1,7,5,0,Standing,Grounded,Bent Down,Unstoppable Blow,Stiff Blow,4
+Arm Wrench & Elbow Smash,3,12,8,0,Standing,Bent Down,Groggy,Toughness,Thick Skin,18
+Augmented Fireman Carry,3,18,10,0,Standing,Grounded,Groggy,Versatility,Versatility,21
+Axe Kick,3,10,3,3,Standing,Groggy,Bent Down,Block,Feint,10
+Back Spinning Wheel Kick,2,12,3,0,Standing,Groggy,Groggy,Power Grappling,Escape Artist,5
+Bicycle Kick,3,15,1,0,Standing,Groggy,Bent Down,Power Grappling,Feint,10
+Big Kick,3,12,8,0,Standing,Bent Down,Groggy,Toughness,Willpower,18
+Big Punch,2,5,6,2,Standing,Groggy,Bent Down,Rage,Unstoppable Blow,8
+Club To The Neck,1,7,12,0,Standing,Grounded,Bent Down,Thick Skin,Pacification,12
+Elbow Smash,5,15,6,3,Standing,Groggy,Groggy,Head Start,Elasticity,13
+Fireman Carry,3,8,4,0,Standing,Grounded,Bent Down,Block,Escape Artist,8
+Fist But,2,10,4,5,Standing,Groggy,Bent Down,Ruthless Grasp,Escape Artist,8
+Forearm On Leg,3,15,12,0,Standing,Grounded,Grounded,Head Start,Elasticity,23
+Forearm Smash,1,6,6,3,Standing,Groggy,Groggy,Toughness,Willpower,0
+Hard Headbutt,2,12,3,5,Standing,Groggy,Bent Down,Toughness,Pacification,10
+Head Butt,1,7,5,3,Standing,Groggy,Bent Down,Might,Stiff Blow,5
+Karate Kick,1,9,5,0,Standing,Groggy,Bent Down,Power Grappling,Ruthless Grasp,10
+Knees Lift,2,7,5,3,Standing,Groggy,Standing,Toughness,Thick Skin,7
+Low Kick,1,7,6,0,Standing,Bent Down,Grounded,Improved Reflexes,Elasticity,7
+Middle Kick,3,4,6,0,Standing,Bent Down,Opening Move,Improved Reflexes,Frenzied Urge,3
+Mule Kick,2,20,10,0,Standing,Bent Down,Groggy,Head Start,Lightness,25
+Neckbreaker Cutter,2,19,11,0,Standing,Grounded,Groggy,Versatility,Versatility,23
+Overhead Kick,4,13,7,0,Standing,Groggy,Grounded,Head Start,Frenzied Urge,14
+Pepsi Twist,5,19,8,0,Standing,Bent Down,Groggy,Versatility,Versatility,23
+Powerful Knee Strike,2,13,8,0,Standing,Bent Down,Groggy,Willpower,Pacification,20
+Roundhouse Kick,5,20,8,0,Standing,Groggy,Groggy,Improved Reflexes,Lightness,26
+Side Mounting Punch,1,6,6,0,Standing,Groggy,Bent Down,Might,Berserker,10
+Standing Clothesline,1,15,8,0,Standing,Grounded,Bent Down,Unstoppable Blow,Stiff Blow,17
+Toe Kick,3,5,5,0,Standing,Bent Down,Bent Down,Rage,Stiff Blow,9
+Uppercut,1,8,5,0,Standing,Groggy,Bent Down,Rage,Berserker,9
+Uraken,4,21,8,3,Standing,Grounded,Groggy,Versatility,Versatility,21
+Asai Moonsault,12,60,20,0,Stunned,Grounded,Grounded,Ruthless Grasp,Feint,74
+Avalanche,6,24,12,0,Stunned,Grounded,Groggy,Unstoppable Blow,Fury,36
+Banzai Drop,18,58,17,0,Stunned,Grounded,Grounded,Thick Skin,Endurance,75
+Body Splash,8,28,14,0,Stunned,Pinning,Grounded,Rage,Fury,42
+Caribbean Splash,11,35,21,0,Stunned,Grounded,Groggy,Versatility,Versatility,61
+Corkscrew Leg Drop,3,26,13,0,Stunned,Grounded,Grounded,Quickness,Head Start,33
+Corkscrew Splash,7,27,10,0,Stunned,Grounded,Grounded,Quickness,Lightness,36
+Diamond Dust,11,45,17,15,Stunned,Grounded,Grounded,Improved Reflexes,Frenzied Urge,69
+Diving Big Boot,7,40,15,15,Stunned,Grounded,Groggy,Stiff Blow,Fury,60
+Diving Bulldog,8,36,17,15,Stunned,Grounded,Grounded,Quickness,Head Start,57
+Diving Crossbody,10,24,9,0,Stunned,Pinning,Grounded,Lightness,Elasticity,35
+Diving Elbow Drop,6,22,13,10,Stunned,Grounded,Grounded,Unstoppable Blow,Stiff Blow,37
+Diving Elbow Smash,7,30,13,10,Stunned,Grounded,Bent Down,Rage,Berserker,49
+Diving Fist Drop,5,30,15,10,Stunned,Grounded,Grounded,Elasticity,Frenzied Urge,46
+Diving Headbutt,7,27,10,15,Stunned,Grounded,Grounded,Ruthless Grasp,Feint,39
+Diving Hurracanrana,8,31,13,0,Stunned,Grounded,Grounded,Quickness,Head Start,42
+Diving Knee Drop,9,42,20,20,Stunned,Grounded,Grounded,Lightness,Elasticity,63
+Diving Leg Drop,11,59,22,0,Stunned,Grounded,Grounded,Elasticity,Frenzied Urge,73
+Diving Rolling Elbow Smash,8,21,12,10,Stunned,Grounded,Grounded,Elasticity,Frenzied Urge,37
+Diving Spear,10,63,20,0,Stunned,Grounded,Grounded,Rage,Fury,73
+Diving Spinning Leg Drop,11,46,16,0,Stunned,Grounded,Grounded,Frenzied Urge,Quickness,63
+Diving Thrust Kick,8,33,11,0,Stunned,Grounded,Grounded,Lightness,Frenzied Urge,47
+Diving Thump,13,48,15,0,Stunned,Grounded,Grounded,Willpower,Pacification,68
+Double Axe Handle,3,18,10,1,Stunned,Grounded,Groggy,Might,Stiff Blow,0
+Double Knee Drop From Turnbuckle,12,60,20,25,Stunned,Grounded,Grounded,Unstoppable Blow,Berserker,80
+Dragonrana,3,15,12,0,Stunned,Pinning,Groggy,Quickness,Frenzied Urge,22
+Flying Body Press,5,38,17,0,Stunned,Pinning,Grounded,Stiff Blow,Berserker,56
+Flying Clothesline,5,21,15,0,Stunned,Grounded,Groggy,Rage,Berserker,32
+Flying Clothesline To The Back,3,30,16,0,Stunned,Grounded,Groggy,Unstoppable Blow,Berserker,44
+Frog Splash,17,47,13,0,Stunned,Pinning,Grounded,Ruthless Grasp,Escape Artist,61
+Guillotine Leg Drop,15,55,20,0,Stunned,Grounded,Grounded,Power Grappling,Feint,72
+Hang Over Leg Drop,9,41,13,0,Stunned,Grounded,Grounded,Lightness,Elasticity,53
+Leg Lariat,6,39,16,0,Stunned,Grounded,Grounded,Unstoppable Blow,Stiff Blow,51
+Mad Splash,4,20,15,0,Stunned,Grounded,Groggy,Versatility,Versatility,38
+Missile Dropkick,16,57,19,0,stunned,Grounded,Grounded,Improved Reflexes,Head Start,74
+Moonsault,13,66,17,0,Stunned,Grounded,Grounded,Quickness,Improved Refelexes,76
+Phoenix Splash,4,39,18,0,Stunned,Grounded,Grounded,Elasticity,Frenzied Urge,52
+Shooting Star Press,8,41,14,0,Stunned,Grounded,Grounded,Quickness,Elasticity,54
+Skytwister Press,10,40,13,0,Stunned,Grounded,Grounded,Versatility,Versatility,55
+Spear,10,65,20,0,Stunned,Grounded,Grounded,Rage,Berserker,73
+Splash,7,37,16,0,Stunned,Grounded,Grounded,Rage,Berserker,57
+Split Legged Moonsault,8,41,14,0,Stunned,Grounded,Grounded,Quickness,Frenzied Urge,54
+Super DDT,9,45,18,20,Stunned,Grounded,Grounded,Stiff Blow,Berserker,65
+Swanton Bomb,10,60,22,0,Stunned,Grounded,Grounded,Improved Reflexes,Lightness,75
+Twisting Body Attack,5,14,7,0,Stunned,Grounded,Grounded,Elasticity,Frenzied Urge,18
+Twisting Somersault Kick,5,26,17,0,Stunned,Grounded,Grounded,Head Start,Elasticity,45
+Uranage,7,33,12,0,Stunned,Grounded,Groggy,Versatility,Versatility,47
+Alley Bomb,7,27,10,0,Turnbuckle Grounded,Grounded,Grounded,Toughness,Endurance,34
+Broncobuster,5,30,15,0,Turnbuckle Grounded,Grounded,Grounded,Quickness,Lightness,46
+Foot Choke,2,12,3,0,Turnbuckle Grounded,Grounded,Groggy,Tireless,Pacification,2
+Low Dropkick,2,4,6,0,Turnbuckle Grounded,Grounded,Grounded,Improved Reflexes,Frenzied Urge,0
+Mudhole Stomping,6,22,13,0,Turnbuckle Grounded,Grounded,Groggy,Rage,Fury,36
+Rolling Wheel Kick,11,45,17,0,Turnbuckle Grounded,Grounded,Groggy,Lightness,Frenzied Urge,61
+Shoulder Thrust At Turnbuckle,7,37,16,0,Turnbuckle Grounded,Grounded,Bent Down,Tireless,Toughness,53
+Somersault Kick,8,36,17,0,Turnbuckle Grounded,Grounded,Bent Down,Head Start,Elasticity,55
+Stink Face,1,13,14,0,Turnbuckle Grounded,Grounded,Grounded,Pacification,Endurance,25
+Stomping At Turnbuckle,5,26,17,0,Turnbuckle Grounded,Grounded,Grounded,Lightness,Elasticity,44
+10 Punches at Turnbuckle,7,27,17,5,Turnbuckle Standing,Groggy,Grounded,Thick Skin,Pacification,39
+Acid Bomb,11,48,15,13,Turnbuckle Standing,Grounded,Groggy,Versatility,Versatility,68
+Choke Toss From Turnbuckle,20,56,16,0,Turnbuckle Standing,Grounded,Groggy,Toughness,Pacification,80
+Cross Arm Iconoclasm,6,39,10,0,Turnbuckle Standing,Grounded,Grounded,Mastery,Ruthless Grasp,52
+Dragonsteiner,10,31,12,10,Turnbuckle Standing,Grounded,Grounded,Block,Feint,47
+Flipping Slam,5,40,16,0,Turnbuckle Standing,Grounded,Grounded,Pacification,Endurance,54
+Forearm Smash At Turnbuckle,1,17,12,3,Turnbuckle Standing,Groggy,Standing,Willpower,Pacification,23
+Frankensteiner,7,46,19,15,Turnbuckle Standing,Grounded,Grounded,Improved Reflexes,Quickness,70
+Gorilla Press Slam From Turnbuckle,9,62,21,0,Turnbuckle Standing,Grounded,Groggy,Berserker,Fury,71
+Jumping Armbar Takedown,4,11,8,0,Turnbuckle Standing,Submission,Grounded,Head Start,Frenzied Urge,19
+Landing Pin,6,20,13,0,Turnbuckle Standing,Pinning,Grounded,Escape Artist,Feint,38
+Musclebuster,12,60,20,0,Turnbuckle Standing,Grounded,Grounded,Willpower,Endurance,80
+Rolling Samoan Crash,10,31,12,0,Turnbuckle Standing,Grounded,Groggy,Ruthless Grasp,Feint,49
+Running Thump At Turnbuckle,4,21,8,0,Turnbuckle Standing,Groggy,Groggy,Thick Skin,Pacification,28
+Snake Eyes,2,12,3,5,Turnbuckle Standing,Groggy,Groggy,Toughness,Thick Skin,7
+Springboard Dropkick,3,15,7,3,Turnbuckle Standing,Grounded,Grounded,Lightness,Elasticity,18
+Sringer Splash,3,5,6,0,Turnbuckle Standing,Groggy,Groggy,Head Start,Lightness,0
+Sunset Flip,4,15,6,0,Turnbuckle Standing,Grounded,Grounded,Lightness,Frenzied Urge,19
+Sunset Flip Bomb,4,21,8,0,Turnbuckle Standing,Grounded,Grounded,Escape Artist,Feint,23
+Super 3/4 Turn Neck Breaker,6,30,14,15,Turnbuckle Standing,Grounded,Groggy,Might,Berserker,47
+Super Back Suplex,8,43,20,0,Turnbuckle Standing,Grounded,Grounded,Toughness,Pacification,64
+Super Belly To Back Suplex,11,57,22,0,Turnbuckle Standing,Grounded,Groggy,Power Grappling,Ruthless Grasp,76
+Super Belly To Belly Suplex,9,47,17,0,Turnbuckle Standing,Grounded,Groggy,Rage,Fury,67
+Super Brainbuster,11,46,16,20,Turnbuckle Standing,Grounded,Groggy,Unstoppable Blow,Stiff Blow,64
+Super Cradle DDT,6,41,15,20,Turnbuckle Standing,Grounded,Groggy,Rage,Berserker,60
+Super Death Valley Driver,15,55,20,10,Turnbuckle Standing,Grounded,Groggy,Power Grappling,Escape Artist,78
+Super Dragon Screw,6,42,15,0,Turnbuckle Standing,Grounded,Grounded,Head Start,Lightness,57
+Super Full Nelson Suplex,20,60,15,0,Turnbuckle Standing,Grounded,Groggy,Block,Feint,77
+Super German Suplex,9,66,20,0,Turnbuckle Standing,Grounded,Groggy,Block,Ruthless Grasp,71
+Super Half Nelson Suplex,9,44,19,0,Turnbuckle Standing,Grounded,Groggy,Power Grappling,Escape Artist,70
+Super Plex,8,29,13,0,Turnbuckle Standing,Grounded,Groggy,Stiff Blow,Berserker,41
+Super Rib Breaker,3,18,10,0,Turnbuckle Standing,Grounded,Grounded,Unstoppable Blow,Fury,28
+Super Side Effect,6,42,15,0,Turnbuckle Standing,Grounded,Grounded,Power Grappling,Feint,52
+Super Tiger Bomb,13,48,15,0,Turnbuckle Standing,Grounded,Groggy,Escape Artist,Feint,70
+Super Tiger Suplex,9,48,17,0,Turnbuckle Standing,Grounded,Groggy,Elasticity,Frenzied Urge,64
+Throw Down,4,20,15,0,Turnbuckle Standing,Grounded,Grounded,Willpower,Pacification,31
+Torndao DDT,13,66,17,25,Turnbuckle Standing,Grounded,Groggy,Lightness,Frenzied Urge,75
+Turnbuckle Powerbomb,16,61,18,0,Turnbuckle Standing,Grounded,Groggy,Thick Skin,Pacification,76
+Big Body Avalanche,4,21,8,0,You Are Running,Standing,Standing,Endurance,Toughness,30
+Chin Breaker,3,12,8,2,You Are Running,Grounded,Standing,Unstoppable Blow,Stiff Blow,20
+Clothesline To Back,3,13,7,0,You Are Running,Grounded,Standing,Unstoppable Blow,Berserker,0
+Diving Shoulder Block,6,29,15,0,You Are Running,Grounded,Grounded,Thick Skin,Pacification,49
+Flapjack,9,41,13,0,You Are Running,Grounded,Grounded,Lightness,Frenzied Urge,56
+Flying Forearm Smash,9,48,17,3,You Are Running,Grounded,Grounded,Head Start,Frenzied Urge,66
+Head Scissor,5,20,8,0,You Are Running,Grounded,Grounded,Quickness,Lightness,25
+Jumping Front Bulldog,8,31,13,10,You Are Running,Grounded,Grounded,Quickness,Improved Refelexes,43
+Lariat,3,8,4,0,You Are Running,Grounded,Standing,Power Grappling,Ruthless Grasp,7
+One Arm Bulldog,4,15,7,5,You Are Running,Grounded,Groggy,Ruthless Grasp,Feint,14
+Running Crossbody,1,15,8,0,You Are Running,Pinning,Grounded,Improved Reflexes,Elasticity,16
+Running DDT,1,15,8,10,You Are Running,Grounded,Standing,Rage,Berserker,18
+Running Swinging Neck Breaker,6,30,14,0,You Are Running,Grounded,Standing,Head Start,Lightness,42
+Shining Wizard,8,33,11,0,You Are Running,Grounded,Groggy,Improved Reflexes,Elasticity,43
+Sling Blade,3,21,20,0,You Are Running,Grounded,Grounded,Versatility,Versatility,44
+Sumo Palm Strike,6,39,16,0,You Are Running,Grounded,Standing,Thick Skin,Endurance,60
